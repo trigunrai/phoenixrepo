@@ -1,6 +1,15 @@
 public class Book
 {
-private int bookid;
-private String bookname;
-private String Book_Author;
+private int bookId;
+private String title;
+private String author;
+private float price;
+
+public void setBookId(int bookId){
+this.bookId=bookId;
+}
+public int getBookId()
+{
+return bookId;
+}
 }
