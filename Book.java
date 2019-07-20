@@ -27,6 +27,8 @@ public void setPrice (float price)
 {
 this.price=price;
 }
+ public void test(){
+
 }
 
 }
