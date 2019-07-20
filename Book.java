@@ -18,6 +18,12 @@ this.title=title;
 }
 public void setAuthor(String author)
 {
-this.author=author
+this.author=author;
 }
+public void setPrice (float price)
+{
+this.price=price;
+}
+}
+
 }
