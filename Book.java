@@ -20,6 +20,9 @@ public void setAuthor(String author)
 {
 this.author=author;
 }
+public void show()
+{
+}
 public void setPrice (float price)
 {
 this.price=price;
